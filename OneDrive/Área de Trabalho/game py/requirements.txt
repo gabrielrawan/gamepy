@@ -1,0 +1,3 @@
+# No external dependencies needed
+# This game uses only Python standard library
+# Python 3.x required
