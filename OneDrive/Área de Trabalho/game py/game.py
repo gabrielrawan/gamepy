@@ -1,7 +1,7 @@
 def start_game():
-    print("\nWelcome, Recruiter.")
-    print("You have 3 candidates in front of you.")
-    print("Only one is actually worth hiring.\n")
+    print("\nWelcome, Recruiter!")
+    print("You have 3 amazing candidates in front of you.")
+    print("Only ONE is actually worth hiring.\n")
 
     print("A - Talks well, but no real projects.")
     print("B - Knows theory, but never shipped anything.")
